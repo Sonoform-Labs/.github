@@ -6,6 +6,7 @@ Open source research in audio machine learning, music information retrieval, and
 
 - **[Speculative Audio Generation Engine](https://github.com/Sonoform-Labs/Predictive-Neural-SFX)**: pre-generating game sound effects with a lightweight text-to-audio model.
 - **[BirdCLEF+ 2026](https://github.com/Sonoform-Labs/BirdClef)**: partial-label evaluation of interpretable prototype components with temporal aggregation for bioacoustic classification.
+- **[Mind the Mic](https://github.com/Sonoform-Labs/mind-the-mic)**: deriving an equation modeling log-spectral distance between receivers in neural acoustic field benchmarks.
 
 ## Links
 
